@@ -1,0 +1,11 @@
+# Ignore Python and Node files
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE/editor configs
+.vscode/
+.DS_Store
